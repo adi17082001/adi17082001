@@ -1,20 +1,19 @@
-# 🚀 Aditya Bhosale
+# 👋 Hi, I'm Aditya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Development+Engineer+II+at+Accelya;Enterprise+Product+Engineering;Java+%7C+Spring+Boot+%7C+.NET+%7C+Angular;Distributed+Systems+%7C+Microservices+%7C+CI%2FCD" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Aditya%20Bhosale&fontSize=36&fontAlignY=50" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SDE--II-Accelya-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-Enterprise%20Products-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-orange?style=for-the-badge" />
+  <b>Software Development Engineer II (SDE-II) · Accelya</b><br/>
+  Java · Spring Boot · .NET · C# · Angular · Distributed Systems
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a **Software Development Engineer II (SDE-II) at Accelya**, working on **large-scale enterprise products** in a **multi-technology, distributed environment**.
+I am a **Software Development Engineer II (SDE-II) at Accelya**, working on **large-scale enterprise products** in a **multi-technology environment**.
 
 I focus on building **scalable, reliable, and maintainable software systems** used in production.
 
@@ -142,11 +141,11 @@ I focus on building **scalable, reliable, and maintainable software systems** us
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adi17082001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adi17082001&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adi17082001&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adi17082001&theme=default&hide_border=true" />
 </p>
 
 ---
