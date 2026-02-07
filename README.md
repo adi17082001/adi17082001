@@ -26,47 +26,87 @@ I focus on building **scalable, reliable, and maintainable software systems**.
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
-</p>
+### Languages & Frameworks
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36"/><br/>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36"/><br/>
+      <sub><b>.NET</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="36"/><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔹 Messaging
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
-</p>
+### Messaging
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36"/><br/>
+      <sub><b>RabbitMQ</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔹 Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="40"/>
-</p>
+### Databases
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36"/><br/>
+      <sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="36"/><br/>
+      <sub><b>IBM Informix</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔹 Architecture & Concepts
-<p align="left">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-api-web-development-flaticons-flat-flat-icons.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/null/microservices.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/null/distributed-network.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/null/synchronize.png" width="40"/>
-</p>
+### Architecture & Concepts
+<table>
+  <tr>
+    <td align="center"><sub><b>REST APIs</b></sub></td>
+    <td align="center"><sub><b>Microservices</b></sub></td>
+    <td align="center"><sub><b>Distributed Systems</b></sub></td>
+    <td align="center"><sub><b>Asynchronous Processing</b></sub></td>
+  </tr>
+</table>
 
 ---
 
-### 🔹 DevOps & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-</p>
+### DevOps & Tools
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36"/><br/>
+      <sub><b>Jenkins</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
