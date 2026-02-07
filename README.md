@@ -27,36 +27,46 @@ I focus on building **scalable, reliable, and maintainable software systems**.
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
+</p>
 
 ---
 
 ### 🔹 Messaging
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
+</p>
 
 ---
 
 ### 🔹 Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Informix](https://img.shields.io/badge/Informix-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="40"/>
+</p>
 
 ---
 
 ### 🔹 Architecture & Concepts
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-4CAF50?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-5A29E4?style=for-the-badge)
-![Asynchronous Processing](https://img.shields.io/badge/Asynchronous%20Processing-FFB300?style=for-the-badge)
+<p align="left">
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-api-web-development-flaticons-flat-flat-icons.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/null/microservices.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/null/distributed-network.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/null/synchronize.png" width="40"/>
+</p>
 
 ---
 
 ### 🔹 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -81,5 +91,5 @@ I focus on building **scalable, reliable, and maintainable software systems**.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/adityabhosale17/
+- 💼 LinkedIn: https://www.linkedin.com/in/adityabhosale17/  
 - 📧 Email: adityabhosale1708@gmail.com
