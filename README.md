@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya
 
 🚀 **Software Development Engineer II (SDE-II) at Accelya**  
-💻 Java | Spring Boot | .NET | C# | Angular | Distributed Systems  
+💻 Java | Spring Framework | .NET | C# | Angular | Distributed Systems  
 📍 Enterprise Product Development
 
 ---
